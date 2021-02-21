@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="multi_notes">Multi Notes</string>
+    <string name="ninad_parikh">© 2020, Ninad Parikh</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="about">About</string>
+    <string name="add_note">Add note</string>
+    <string name="add_title">Add Title...</string>
+    <string name="add_text">Add Text...</string>
+    <string name="file_name">notes.json</string>
+    <string name="noNotes">Empty Notes are not saved</string>
+    <string name="noTitle">Notes without Title are not saved</string>
+    <string name="noDesc">Notes without content are not saved</string>
+    <string name="sv_dialog_title">You havent saved your note</string>
+</resources>
